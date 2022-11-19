@@ -13,7 +13,6 @@ const AddExpenseForm = (props) => {
     
     const expense = {
       id: uuidv4(),
-      // name: name,
       name,
       cost: parseInt(cost),
     }

@@ -11,7 +11,7 @@ const App = () => {
   return (
     <AppProvider>
       <div className="container">
-      <h1 className="mt-3 text-center">Budget Planner</h1>
+      <h1 className="mt-3 text-center" style={{ color: 'white' }}>Budget Planner</h1>
       <div className="row mt-3">
         <div className="col-sm">
           <Budget />
@@ -23,13 +23,13 @@ const App = () => {
           <ExpenseTotal />
         </div>
       </div>
-      <h3 className="mt-3">Expenses</h3>
+      <h3 className="mt-3" style={{ color: 'white' }}>Expenses</h3>
       <div className='row mt-3'>
         <div className='col-sm'>
           <ExpenseList />
         </div>
       </div>
-      <h3 className='mt-3'>Add Expense</h3>
+      <h3 className='mt-3' style={{ color: 'white' }}>Add Expense</h3>
       <div className='mt-3'>
         <div className='col-sm'>
           <AddExpenseForm />

@@ -4,4 +4,4 @@ Simple Budget planner that allows you to add and delete expenses. Shows your tot
 
 [Click to run demo](https://budget-planner-appjh.web.app/)
 
-![Budget App](./src/images/budget-app-ss.png)
+![Budget App](./src/images/Screen%20Shot%202022-11-19%20at%204.45.43%20PM.png)
